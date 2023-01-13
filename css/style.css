@@ -69,3 +69,13 @@ h1 {
 .audios{
   display: none;
 }
+
+.imgs-meme{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+}
