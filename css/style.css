@@ -20,7 +20,10 @@ h1 {
   color: var(--branca);
   margin-bottom: 20px;
   font-size: 2rem;
+  display: flex;
+  text-align: center;
 }
+
 
 .teclado {
   background: linear-gradient(to bottom, #eeeeee 0%,#cccccc 100%);
